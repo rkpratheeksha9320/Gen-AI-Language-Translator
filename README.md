@@ -2,6 +2,12 @@
 
 A multilingual **AI-powered language translation application** built using the **M2M-100 1.2B** model from Meta/Facebook. The application provides a simple Gradio interface where users can enter text, select a source language and target language, and generate the translated text.
 
+📸 Demo
+
+Add a screenshot of your working Gradio translator here:
+
+![Language Translator Demo](screenshot.png)
+
 ## 🚀 Features
 
 * 🌍 Multilingual text translation
